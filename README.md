@@ -17,3 +17,4 @@ Awesome Software for Augmentative and alternative communication (AAC)
 # Resources
 
 * Sclera symbols, [Site](https://sclera.be/en/picto/overview)
+* ARASAAC symbols, [Site](http://www.arasaac.org/descargas.php)
